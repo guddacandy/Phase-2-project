@@ -1,9 +1,5 @@
 # KINGS COUNTY HOUSE PREDICTION
 
-
-![Alt Text]("C:\Users\HP\Desktop\real-estate-business-compressor.webp")
-
-
 ### Project Overview
 
 This project leverages the King County House Sales dataset to perform a comprehensive analysis of house sales in a Northwest county using multiple linear regression modeling. Our primary aim is to empower local real estate agencies with the insights required to address inquiries, particularly from homeowners. We seek to identify the pivotal factors that significantly impact house prices and quantify the extent of their influence on property values and potential appreciation.
